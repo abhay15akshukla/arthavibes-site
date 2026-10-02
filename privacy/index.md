@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # ArthaVibes Privacy Policy
 
-Last updated: 1 October 2026
+Last updated: 3 October 2026
 
 ArthaVibes is a personal income and expense tracker for Android. This policy explains what the app does with
 your information. The short version: **everything stays on your phone. We do not collect, receive, sell or
@@ -52,8 +52,9 @@ else, never used for advertising, credit scoring or lending, and never sold.
 
 ## 3. Other information you enter
 
-Transactions you add by hand, categories, accounts, budgets, recurring entries, notes and settings are saved
-only on your phone, in the same encrypted database.
+Transactions you add by hand, categories, accounts, budgets, recurring entries and notes are saved only on
+your phone, in the same encrypted database. Your settings are kept in a separate settings file on your phone;
+it contains no amounts, messages or names.
 
 ## 4. How your data is protected
 
@@ -99,8 +100,8 @@ files never contain SMS text.
 
 ## 7. Deleting your data
 
-- **Settings > Delete all data** permanently deletes every transaction, category, account, budget and saved
-  SMS detail from the app.
+- **Settings > Delete all data** permanently deletes every transaction, category, account, budget, recurring
+  entry and saved SMS detail from the app. Your settings and Premium purchase are kept.
 - Uninstalling the app deletes all of its data from your phone.
 - We cannot delete or recover your data for you, because we never have a copy of it.
 
