@@ -1,0 +1,7 @@
+# GitHub Pages site for arthavibes.in: the ArthaVibes privacy policy and terms of use (Play Console needs a
+# public privacy policy URL; the app links to /privacy and /terms).
+title: ArthaVibes
+description: Personal income and expense tracker for Android. Everything stays on your phone.
+theme: jekyll-theme-primer
+exclude:
+  - README.md
