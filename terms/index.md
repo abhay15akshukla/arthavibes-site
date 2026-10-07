@@ -42,9 +42,9 @@ a backup file (Settings > Backup). Keeping backups safe is your responsibility.
 ## 5. Free and Premium
 
 The app is free to use, with limits. On the free plan the app works with your **last 30 days** of
-transactions: lists, charts and totals show those days, and transactions can be added, imported, exported or
-backed up only for those days. Older transactions already in the app are kept, not deleted; they are shown
-again with Premium. The free plan also has limits on the number of budgets, recurring entries and custom
+transactions: lists, charts and totals show those days, and transactions can be added or imported only for
+those days. CSV export, backup and the review list always include all your transactions, on every plan. Older
+transactions already in the app are kept, not deleted; they are shown again with Premium. The free plan also has limits on the number of budgets, recurring entries and custom
 categories. The app's Premium screen shows the current limits.
 
 **ArthaVibes Premium** removes the date limit and adds extra features, such as insights, PDF and Excel reports,
@@ -88,9 +88,8 @@ hidden, not removed, and come back if you subscribe again. Budgets and recurring
 are paused (kept, but not active) and come back too. Categories you already have stay; adding more than the
 free number needs Premium. Premium colors and icons return to the default.
 
-Restoring a backup replaces all data in the app. On the free plan only the last 30 days of the backup are
-restored, so transactions that were hidden in the app before the restore are gone afterwards. Back up and
-restore with Premium if you need your full history.
+Restoring a backup replaces all data in the app with everything in the backup file, on every plan. On the free
+plan, restored transactions older than 30 days are hidden like any other older transaction, not removed.
 
 The app checks your Premium status with Google Play on your phone. Premium keeps working while you are
 offline, for up to about a month for a subscription, until Google Play can confirm it again.
