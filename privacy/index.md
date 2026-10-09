@@ -46,6 +46,9 @@ you choose (for example the last 3 months), and then each new SMS as it arrives.
   the text of messages from bank, card and wallet senders is saved in the app's encrypted database on your
   phone, so you can see which message a transaction came from. Turning the setting off deletes the saved texts.
   Messages from people are never saved, even with this setting on.
+- ArthaVibes can only **read** SMS; it never sends any. Android's permission prompt says "send and view SMS
+  messages" because that is the name Android gives its whole SMS permission group. The app asks only for
+  permission to read SMS and to receive new ones, not to send.
 
 **What is never done.** Your SMS messages, and anything taken from them, are never sent to us or to anyone
 else, never used for advertising, credit scoring or lending, and never sold.
